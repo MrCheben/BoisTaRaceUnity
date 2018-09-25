@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5951bb2f67caa9e41951cee5d8da42fd
+timeCreated: 1537882859
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rusted Orlando Sans Demo
+  fontNames:
+  - Rusted Orlando Sans Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

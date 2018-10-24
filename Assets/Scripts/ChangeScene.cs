@@ -7,7 +7,7 @@ public class ChangeScene : MonoBehaviour {
 
 public void ChangeSceneMenu ( string scenename) {
 
-	Application.LoadLevel (scenename);
+	SceneManager.LoadScene (scenename);
 }
 
 }
